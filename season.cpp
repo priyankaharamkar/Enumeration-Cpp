@@ -6,6 +6,6 @@ enum season{spring,summer,autumn,winter};
 int main()
 {
 	season s;
-	s=autumn;
+	s=summer;
 	cout<<"season is : "<<s;
 }
